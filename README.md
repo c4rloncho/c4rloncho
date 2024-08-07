@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=390&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=400&height=45">
 </p>
 
 ## 🚀 Sobre mí
