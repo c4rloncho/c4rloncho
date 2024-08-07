@@ -50,7 +50,7 @@ me.say_hi()
 ## 🌟 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/C4RLONCHO/The-Last-Hope">
+  <a href="https://github.com/c4rloncho/Finanzas-personal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=The-Last-Hope&theme=dracula" />
   </a>
   <a href="https://github.com/space-dog0/taller-estructura">
