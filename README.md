@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Carlos Tapia Segura</h1>
+<h1 align="center">👨‍💻 Carlos Tapia Segura🧉</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática-blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
