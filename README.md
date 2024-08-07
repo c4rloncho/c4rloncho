@@ -18,7 +18,7 @@ class CarlosTapia:
         self.role = "Estudiante de Ingeniería civil en computación e informática"
         self.location = "Coquimbo, Chile"
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
-        self.interests = ["Desarrollo Web", "Ciencia de Datos", "IA"]
+        self.interests = ["Desarrollo Web", "Ciencia de Datos"]
         self.current_semester = 9
 
     def say_hi(self):
