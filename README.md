@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=390&height=45">
 </p>
 
 ## 🚀 Sobre mí
@@ -27,17 +27,6 @@ class CarlosTapia:
 me = CarlosTapia()
 me.say_hi()
 ```
-
-<details>
-<summary>🎯 Objetivos 2024</summary>
-
-- 📚 Completar mi carrera universitaria
-- 💼 Obtener experiencia laboral en desarrollo de software
-- 🌐 Contribuir a proyectos de código abierto
-- 📱 Desarrollar una aplicación móvil innovadora
-- 🤖 Profundizar en el aprendizaje de IA y machine learning
-
-</details>
 
 ## 🛠️ Tecnologías y Herramientas
 
