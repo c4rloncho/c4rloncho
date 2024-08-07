@@ -17,10 +17,9 @@ class CarlosTapia:
     def __init__(self):
         self.role = "Estudiante de Ingeniería en Computación"
         self.location = "Coquimbo, Chile"
-        self.languages = ["Python", "JavaScript", "Java", "C#", "C++"]
-        self.interests = ["Desarrollo Web", "IA", "Ciencia de Datos"]
+        self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
+        self.interests = ["Desarrollo Web", "Ciencia de Datos"]
         self.current_semester = 9
-        self.coffee_level = 100  # Siempre al máximo!
 
     def say_hi(self):
         print("¡Hola! Soy Carlos. Convirtiendo café en código desde 2018.")
@@ -44,12 +43,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
-## 🌟 Proyectos Destacados
+## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <a href="#"><img src="/api/placeholder/400/200" alt="Proyecto 1" width="400" height="200"/></a>
-  <a href="#"><img src="/api/placeholder/400/200" alt="Proyecto 2" width="400" height="200"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=C4RLONCHO&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </p>
 
 ## 📫 Conéctate conmigo
