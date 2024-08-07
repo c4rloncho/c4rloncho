@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación-blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática -blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
   <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=for-the-badge" alt="Universidad Católica del Norte"/>
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
 </p>
@@ -12,7 +12,7 @@
 ```python
 class CarlosTapia:
     def __init__(self):
-        self.role = "Estudiante de Ingeniería en Computación"
+        self.role = "Estudiante de Ingeniería civil en computación e informática"
         self.location = "Coquimbo, Chile"
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
         self.interests = ["Desarrollo Web", "Ciencia de Datos"]
