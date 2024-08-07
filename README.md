@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
 </p>
 
+<p align="center">
+  <img src="/api/placeholder/800/200" alt="Banner personalizado" width="800" height="200"/>
+</p>
+
 ## 🚀 Sobre mí
 
 ```python
@@ -44,6 +48,17 @@ me.say_hi()
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C4RLONCHO&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+</p>
+
+## 🌟 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/C4RLONCHO/The-Last-Hope">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=The-Last-Hope&theme=radical" />
+  </a>
+  <a href="https://github.com/space-dog0/taller-estructura">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=space-dog0&repo=taller-estructura&theme=radical" />
+  </a>
 </p>
 
 ## 📫 Conéctate conmigo
