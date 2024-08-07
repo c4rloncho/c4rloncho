@@ -22,7 +22,7 @@ class CarlosTapia:
         self.current_semester = 9
 
     def say_hi(self):
-        print("Hello world, Soy Carlos desarrollador de software")
+        print("Hello world, Soy Carlos, un buen mate y a programar")
 
 me = CarlosTapia()
 me.say_hi()
