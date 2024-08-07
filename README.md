@@ -1,11 +1,14 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática -blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática-blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
   <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=for-the-badge" alt="Universidad Católica del Norte"/>
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=380&height=45">
+</p>
 
 ## 🚀 Sobre mí
 
@@ -15,7 +18,7 @@ class CarlosTapia:
         self.role = "Estudiante de Ingeniería civil en computación e informática"
         self.location = "Coquimbo, Chile"
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
-        self.interests = ["Desarrollo Web", "Ciencia de Datos"]
+        self.interests = ["Desarrollo Web", "Ciencia de Datos", "IA"]
         self.current_semester = 9
 
     def say_hi(self):
@@ -24,6 +27,17 @@ class CarlosTapia:
 me = CarlosTapia()
 me.say_hi()
 ```
+
+<details>
+<summary>🎯 Objetivos 2024</summary>
+
+- 📚 Completar mi carrera universitaria
+- 💼 Obtener experiencia laboral en desarrollo de software
+- 🌐 Contribuir a proyectos de código abierto
+- 📱 Desarrollar una aplicación móvil innovadora
+- 🤖 Profundizar en el aprendizaje de IA y machine learning
+
+</details>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -47,11 +61,15 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4RLONCHO&theme=material-palenight" alt="GitHub Streak"/>
+</p>
+
 ## 🌟 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/c4rloncho/Finanzas-personal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=The-Last-Hope&theme=material-palenight" />
+  <a href="https://github.com/C4RLONCHO/Finanzas-personal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=Finanzas-personal&theme=material-palenight" />
   </a>
   <a href="https://github.com/space-dog0/taller-estructura">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=space-dog0&repo=taller-estructura&theme=material-palenight" />
@@ -62,6 +80,14 @@ me.say_hi()
 
 <p align="center">
   <a href="mailto:carlos.tapia.contacto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/C4RLONCHO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=C4RLONCHO&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
+</p>
+
+<h4 align="center">💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</h4>
