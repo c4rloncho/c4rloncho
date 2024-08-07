@@ -46,18 +46,18 @@ me.say_hi()
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C4RLONCHO&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=C4RLONCHO&show_icons=true&theme=dracula" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=dracula" alt="Lenguajes más usados"/>
 </p>
 
 ## 🌟 Proyectos Destacados
 
 <p align="center">
   <a href="https://github.com/C4RLONCHO/The-Last-Hope">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=The-Last-Hope&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=The-Last-Hope&theme=dracula" />
   </a>
   <a href="https://github.com/space-dog0/taller-estructura">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=space-dog0&repo=taller-estructura&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=space-dog0&repo=taller-estructura&theme=dracula" />
   </a>
 </p>
 
