@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
 </p>
 
-<p align="center">
-  <img src="/api/placeholder/800/200" alt="Banner personalizado" width="800" height="200"/>
-</p>
-
 ## 🚀 Sobre mí
 
 ```python
