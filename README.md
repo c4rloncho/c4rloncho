@@ -44,12 +44,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="/api/placeholder/495/195" alt="Estadísticas de GitHub" width="495" height="195"/>
-  <img src="/api/placeholder/495/195" alt="Lenguajes más usados" width="495" height="195"/>
-</p>
 
 ## 🌟 Proyectos Destacados
 
