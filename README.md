@@ -48,10 +48,7 @@ me.say_hi()
 </p>
 
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" width="30" style="vertical-align: middle;"> GitHub
-
-
-
+## <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" style="vertical-align: middle;"> GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
