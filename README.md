@@ -48,7 +48,7 @@ me.say_hi()
 </p>
 
 
-## 📊 Mis Estadísticas de GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
@@ -58,7 +58,7 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4RLONCHO&theme=material-palenight" alt="GitHub Streak"/>
 </p>
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyectos
 
 <p align="center">
   <a href="https://github.com/C4RLONCHO/Finanzas-personal">
@@ -69,7 +69,7 @@ me.say_hi()
   </a>
 </p>
 
-## 📫 Conéctate conmigo
+## 📫 Contacto
 
 <p align="center">
   <a href="mailto:carlos.tapia.contacto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
