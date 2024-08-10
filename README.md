@@ -47,8 +47,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> GitHub
-
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" width="30" style="vertical-align: middle;"> GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
 </p>
