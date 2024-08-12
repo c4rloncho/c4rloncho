@@ -67,10 +67,16 @@ me.say_hi()
   </a>
 </p>
 
-## 📫 Contacto
+<h2 align="center">📬 Contáctame</h2>
 
 <p align="center">
-  <a href="mailto:carlos.tapia.contacto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:carlos.tapia.contacto@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/carlos.tapia.contacto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email de Carlos Tapia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="línea decorativa" width="75%"/>
 </p>
 
 ---
