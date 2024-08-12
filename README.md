@@ -1,11 +1,10 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura🧉</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática-blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
-  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=for-the-badge" alt="Universidad Católica del Norte"/>
-  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación-blue?style=flat-square&logo=bookstack&logoColor=white" alt="Estudiante"/>
+  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=flat-square&logo=academia&logoColor=white" alt="Universidad"/>
+  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingeniería+Civil+en+Computación+e+Informática;Apasionado+por+la+Tecnología;Creador+de+soluciones+digitales+para+desafíos+de+ingeniería&center=true&width=700&height=50">
 </p>
