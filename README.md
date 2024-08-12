@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura🧉</h1>
 
-<p align="center">
+**<p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación_e_Informática-003366?style=for-the-badge&logo=graduatecap&logoColor=white" alt="Estudiante"/>
 </p>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingeniería+Civil+en+Computación+e+Informática;Apasionado+por+la+Tecnología;Creador+de+soluciones+digitales+para+desafíos+de+ingeniería&center=true&width=700&height=50">
-</p>
+</p>**
 
 ## 🚀 Sobre mí
 
