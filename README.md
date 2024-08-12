@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingeniería+Civil+en+Computación+e+Informática;Apasionado+por+la+Tecnología&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingeniería+Civil+en+Computación+e+Informática;Apasionado+por+la+Tecnología;Creador+de+soluciones+digitales+para+desafíos+de+ingeniería&center=true&width=700&height=50">
 </p>
 
 ## 🚀 Sobre mí
