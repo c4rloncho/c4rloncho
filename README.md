@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería_Civil_en_Computación_e_Informática-blue?style=for-the-badge" alt="Estudiante de Ingeniería"/>
-  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=for-the-badge" alt="Universidad Católica del Norte"/>
-  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge" alt="Coquimbo, Chile"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación_e_Informática-4169E1?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Estudiante"/>
+  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-FF6347?style=for-the-badge&logo=university&logoColor=white" alt="Universidad"/>
+  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-20B2AA?style=for-the-badge&logo=map-pin&logoColor=white" alt="Ubicación"/>
 </p>
 
 ## 🚀 Sobre mí
