@@ -79,4 +79,4 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=C4RLONCHO&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
 </p>
 
-<h4 align="center">💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</h4>
+
