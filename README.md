@@ -1,9 +1,13 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura🧉</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación_e_Informática-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Estudiante"/>
-  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-red?style=for-the-badge&logo=academia&logoColor=white" alt="Universidad"/>
-  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-green?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación_e_Informática-003366?style=for-the-badge&logo=graduatecap&logoColor=white" alt="Estudiante"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-8B0000?style=for-the-badge&logo=university&logoColor=white" alt="Universidad"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-006400?style=for-the-badge&logo=location&logoColor=white" alt="Ubicación"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingeniería+Civil+en+Computación+e+Informática;Apasionado+por+la+Tecnología;Creador+de+soluciones+digitales+para+desafíos+de+ingeniería&center=true&width=700&height=50">
