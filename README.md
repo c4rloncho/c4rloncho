@@ -67,9 +67,9 @@ me.say_hi()
   </a>
 </p>
 
-<h2 align="center">📬 Contacto</h2>
+##Contacto
 
-<p align="center">
+<p align="left">
   <a href="mailto:carlos.tapia.contacto@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/carlos.tapia.contacto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email de Carlos Tapia"/>
   </a>
