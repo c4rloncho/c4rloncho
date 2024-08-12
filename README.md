@@ -67,7 +67,7 @@ me.say_hi()
   </a>
 </p>
 
-<h2 align="center">📬 Contáctame</h2>
+<h2 align="center">📬 Contacto</h2>
 
 <p align="center">
   <a href="mailto:carlos.tapia.contacto@gmail.com" style="text-decoration: none;">
