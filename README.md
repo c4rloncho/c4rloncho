@@ -1,14 +1,17 @@
 <h1 align="center">👨‍💻 Carlos Tapia Segura🧉</h1>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Ing._Civil_Computación_e_Informática-4169E1?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Estudiante"/>
   <img src="https://img.shields.io/badge/Universidad-Católica_del_Norte-FF6347?style=for-the-badge&logo=university&logoColor=white" alt="Universidad"/>
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-20B2AA?style=for-the-badge&logo=map-pin&logoColor=white" alt="Ubicación"/>
 </p>
 
-## 🚀 Sobre mí
+## 🌐 Proyecto Destacado
+[Sitio de Finanzas Personales](https://sitio-finanza-personal.netlify.app/)
+- Herramienta para gestión de finanzas personales
+- Desarrollado con tecnologías web modernas
+- Interfaz intuitiva y fácil de usar
 
+## 🚀 Sobre mí
 ```python
 class CarlosTapia:
     def __init__(self):
@@ -17,7 +20,6 @@ class CarlosTapia:
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
         self.interests = ["Desarrollo Web", "Ciencia de Datos"]
         self.current_semester = 9
-
     def say_hi(self):
         print("Hello world, Soy Carlos, un buen mate y a programar")
 
@@ -26,7 +28,6 @@ me.say_hi()
 ```
 
 ## 🛠 Habilidades y Herramientas
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -46,13 +47,11 @@ me.say_hi()
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4RLONCHO&theme=material-palenight" alt="GitHub Streak"/>
 </p>
 
 ## 🌟 Proyectos
-
 <p align="center">
   <a href="https://github.com/C4RLONCHO/Finanzas-personal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4RLONCHO&repo=Finanzas-personal&theme=material-palenight" />
@@ -63,18 +62,13 @@ me.say_hi()
 </p>
 
 ## 📲 Contacto 
-
 <p align="left">
   <a href="mailto:carlos.tapia.contacto@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/carlos.tapia.contacto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email de Carlos Tapia"/>
   </a>
 </p>
 
-
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C4RLONCHO&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
 </p>
-
-
