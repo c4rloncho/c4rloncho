@@ -5,12 +5,6 @@
   <img src="https://img.shields.io/badge/Ubicación-Coquimbo,_Chile-20B2AA?style=for-the-badge&logo=map-pin&logoColor=white" alt="Ubicación"/>
 </p>
 
-## 🌐 Proyecto Destacado
-[Sitio de Finanzas Personales](https://sitio-finanza-personal.netlify.app/)
-- Herramienta para gestión de finanzas personales
-- Desarrollado con tecnologías web modernas
-- Interfaz intuitiva y fácil de usar
-
 ## 🚀 Sobre mí
 ```python
 class CarlosTapia:
@@ -43,14 +37,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## <img src="https://github.com/fluidicon.png" width="30" height="30" style="vertical-align: middle;"> GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4RLONCHO&theme=material-palenight" alt="GitHub Streak"/>
-</p>
-
 ## 🌟 Proyectos
 <p align="center">
   <a href="https://github.com/C4RLONCHO/Finanzas-personal">
@@ -59,6 +45,19 @@ me.say_hi()
   <a href="https://github.com/space-dog0/taller-estructura">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=space-dog0&repo=taller-estructura&theme=material-palenight" />
   </a>
+</p>
+
+### [Sitio de Finanzas Personales](https://sitio-finanza-personal.netlify.app/)
+- Herramienta para gestión de finanzas personales
+- Desarrollado con tecnologías web modernas
+- Interfaz intuitiva y fácil de usar
+
+## <img src="https://github.com/fluidicon.png" width="30" height="30" style="vertical-align: middle;"> GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4RLONCHO&layout=compact&theme=material-palenight" alt="Lenguajes más usados"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4RLONCHO&theme=material-palenight" alt="GitHub Streak"/>
 </p>
 
 ## 📲 Contacto 
