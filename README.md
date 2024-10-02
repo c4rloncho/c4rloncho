@@ -14,8 +14,7 @@ class CarlosTapia:
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
         self.interests = ["Desarrollo Web", "Ciencia de Datos"]
         self.current_semester = 9
-    def say_hi(self):
-        print("Hello world, Soy Carlos, un buen mate y a programar")
+
 
 me = CarlosTapia()
 me.say_hi()
