@@ -9,7 +9,7 @@
 ```python
 class CarlosTapia:
     def __init__(self):
-        self.role = "Estudiante de Ingeniería civil en computación e informática"
+        self.role = "Ingeniero civil en computación e informática"
         self.location = "Coquimbo, Chile"
         self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
         self.interests = ["Desarrollo Web", "Ciencia de Datos"]
