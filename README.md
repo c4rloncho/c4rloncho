@@ -6,18 +6,21 @@
 </p>
 
 ## 🚀 Sobre mí
-```python
-class CarlosTapia:
-    def __init__(self):
-        self.role = "Ingeniero civil en computación e informática"
-        self.location = "Coquimbo, Chile"
-        self.languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"]
-        self.interests = ["Desarrollo Web", "Ciencia de Datos"]
-        self.current_semester = 9
+```Typescript
+class CarlosTapia implements Developer {
+    role = "Ingeniero civil en computación e informática";
+    location = "Coquimbo, Chile";
+    languages = ["Python", "JavaScript", "Java", "C#", "C++", "TypeScript"];
+    interests = ["Desarrollo Web", "Ciencia de Datos"];
+    currentSemester = 9;
 
+    sayHi(): void {
+        console.log("¡Hola! 👋");
+    }
+}
 
-me = CarlosTapia()
-me.say_hi()
+const me: CarlosTapia = new CarlosTapia();
+me.sayHi();
 ```
 
 ## 🛠 Habilidades y Herramientas
